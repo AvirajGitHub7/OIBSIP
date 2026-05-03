@@ -81,7 +81,7 @@ Then navigate to the relevant `Projects/Task_X/` folder and open the `.ipynb` fi
 
 ---
 
-### <img src="assets/logos/iris.svg" width="22" style="vertical-align:middle"/> Task 1 — Iris Flower Classification
+### <img src="assets/iris.svg" width="22" style="vertical-align:middle"/> Task 1 — Iris Flower Classification
 
 Classify Iris flowers into three species — *Setosa*, *Versicolor*, and *Virginica* — based on sepal and petal measurements.
 
@@ -94,7 +94,7 @@ Classify Iris flowers into three species — *Setosa*, *Versicolor*, and *Virgin
 
 ---
 
-### <img src="assets/logos/unemployment.svg" width="22" style="vertical-align:middle"/> Task 2 — Unemployment Analysis in India
+### <img src="assets/unemployment.svg" width="22" style="vertical-align:middle"/> Task 2 — Unemployment Analysis in India
 
 Analyze unemployment trends across Indian states, with a focus on the impact of the Covid-19 pandemic.
 
@@ -107,7 +107,7 @@ Analyze unemployment trends across Indian states, with a focus on the impact of 
 
 ---
 
-### <img src="assets/logos/car.svg" width="22" style="vertical-align:middle"/> Task 3 — Car Price Prediction
+### <img src="assets/car.svg" width="22" style="vertical-align:middle"/> Task 3 — Car Price Prediction
 
 Predict the resale price of used cars based on vehicle attributes.
 
@@ -120,7 +120,7 @@ Predict the resale price of used cars based on vehicle attributes.
 
 ---
 
-### <img src="assets/logos/email.svg" width="22" style="vertical-align:middle"/> Task 4 — Email Spam Detection
+### <img src="assets/email.svg" width="22" style="vertical-align:middle"/> Task 4 — Email Spam Detection
 
 Classify emails and SMS messages as Spam or Ham using Natural Language Processing.
 
@@ -133,7 +133,7 @@ Classify emails and SMS messages as Spam or Ham using Natural Language Processin
 
 ---
 
-### <img src="assets/logos/sales.svg" width="22" style="vertical-align:middle"/> Task 5 — Sales Prediction
+### <img src="assets/sales.svg" width="22" style="vertical-align:middle"/> Task 5 — Sales Prediction
 
 Predict product sales volume based on advertising spend across different channels.
 
