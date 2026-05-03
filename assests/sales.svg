@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Background -->
+  <rect x="4" y="8" width="56" height="46" rx="4" fill="#f3e5f5" stroke="#6a1b9a" stroke-width="1.5"/>
+  <!-- Axes -->
+  <line x1="12" y1="46" x2="54" y2="46" stroke="#6a1b9a" stroke-width="2"/>
+  <line x1="12" y1="12" x2="12" y2="46" stroke="#6a1b9a" stroke-width="2"/>
+  <!-- Bars -->
+  <rect x="17" y="34" width="7" height="12" rx="1.5" fill="#ab47bc"/>
+  <rect x="27" y="26" width="7" height="20" rx="1.5" fill="#9c27b0"/>
+  <rect x="37" y="18" width="7" height="28" rx="1.5" fill="#7b1fa2"/>
+  <rect x="47" y="12" width="7" height="34" rx="1.5" fill="#6a1b9a"/>
+  <!-- Trend line -->
+  <polyline points="20,34 30,26 40,18 50,12" fill="none" stroke="#ff6f00" stroke-width="2" stroke-dasharray="4,2" stroke-linecap="round"/>
+  <!-- Arrow head on trend -->
+  <polygon points="50,9 54,14 46,14" fill="#ff6f00"/>
+  <!-- Dollar sign -->
+  <text x="32" y="6" text-anchor="middle" font-size="5" font-weight="bold" fill="#6a1b9a" font-family="Arial">SALES</text>
+  <!-- X axis labels -->
+  <text x="20" y="54" text-anchor="middle" font-size="5" fill="#6a1b9a" font-family="Arial">TV</text>
+  <text x="30" y="54" text-anchor="middle" font-size="5" fill="#6a1b9a" font-family="Arial">RD</text>
+  <text x="40" y="54" text-anchor="middle" font-size="5" fill="#6a1b9a" font-family="Arial">NP</text>
+</svg>

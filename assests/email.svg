@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Envelope body -->
+  <rect x="6" y="16" width="52" height="36" rx="4" fill="#fff3e0" stroke="#e65100" stroke-width="2"/>
+  <!-- Envelope flap -->
+  <path d="M6 20 L32 36 L58 20" fill="none" stroke="#e65100" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Left fold -->
+  <line x1="6" y1="52" x2="22" y2="36" stroke="#ffcc80" stroke-width="1.5"/>
+  <!-- Right fold -->
+  <line x1="58" y1="52" x2="42" y2="36" stroke="#ffcc80" stroke-width="1.5"/>
+  <!-- SPAM badge -->
+  <circle cx="48" cy="18" r="13" fill="#f44336"/>
+  <text x="48" y="15" text-anchor="middle" font-size="6.5" font-weight="bold" fill="white" font-family="Arial">SPAM</text>
+  <line x1="42" y1="20" x2="54" y2="20" stroke="white" stroke-width="1.5"/>
+  <text x="48" y="26" text-anchor="middle" font-size="6" fill="white" font-family="Arial">BLOCK</text>
+  <!-- Shield check on envelope -->
+  <path d="M20 36 L20 44 Q20 48 26 50 Q32 48 32 44 L32 36 L26 34Z" fill="#43a047" opacity="0.15" stroke="#43a047" stroke-width="1.5"/>
+  <polyline points="23 42 26 45 30 39" stroke="#43a047" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
